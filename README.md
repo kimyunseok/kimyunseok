@@ -1,33 +1,41 @@
 # 😄 KHS Github
 ## Android Developer
-### Java, C++, Kotlin
+## <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+####
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/haesoo9410)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:psknal27@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/Blog-555263?style=flat&logoColor=white)](https://kimyunseok.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:psknal27@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/Blog-555263?style=for-the-badge&logoColor=white)](https://kimyunseok.tistory.com/)
+
+##
 
 ### 💻 진행한 안드로이드 프로젝트
 
 ##### 1. [Android] 알람이 울리는 메모 어플 제작. 기본으로 제공되는 메모 앱이 복잡하고 사용하기 불편해서 간단하게 메모할 수 있는 어플리케이션을 싱글 프로젝트로 제작했음. 안드로이드 생명주기, 기본 레이아웃 및 안드로이드 제트팩 기본 요소들에 대해서 알게 됨. Room DB를 사용해 로컬 DB를 만들었다. (Kotlin)
 (2020.07 ~ 2020.09) 
 
-[![playStore Badge](https://img.shields.io/badge/PlayStore-555263?style=flat&logoColor=white)](https://play.google.com/store/apps/details?id=com.landvibe.alamemo&hl=en_AU&gl=US) 
+[![playStore Badge](https://img.shields.io/badge/PlayStore-0D96F6?style=for-the-badge&logoColor=white)](https://play.google.com/store/apps/details?id=com.landvibe.alamemo&hl=en_AU&gl=US) 
 
 ##### 2. [Android] 연합동아리 DND 4기 참여. 대학생, 사이드 프로젝트 같이할 사람을 모으는 안드로이드 어플리케이션 제작. 안드로이드 앱 개발자로 참여했음. MVC패턴, Retrofit V2를 사용해서 서버와 통신. 처음으로 진행한 협업 프로젝트 (Kotlin)
 (2020.12 ~ 2021.02) 
 
-[![Github Badge](https://img.shields.io/badge/Repository-555263?style=flat&logoColor=white)](https://github.com/dnd-side-project/dnd-mentee-4th-3-android/) 
+[![Github Badge](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logoColor=white)](https://github.com/dnd-side-project/dnd-mentee-4th-3-android/) 
 
 ##### 3. [Android] '위플' 앱 개발자.  안드로이드 앱 개발자. MVVM 패턴, LiveData (Kotlin)
 (2021-07 ~ ing)
 
+##
+
 ### 알고리즘
 
-##### 백준 문제 풀이 [![Github Badge](https://img.shields.io/badge/Repository-555263?style=flat&logoColor=white)](https://github.com/kimyunseok/cpp/tree/master/algorithm/baekjoon) 
+##### 백준 문제 풀이 
+[![Github Badge](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logoColor=white)](https://github.com/kimyunseok/cpp/tree/master/algorithm/baekjoon) 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hk1554)](https://solved.ac/hk1554)
+
+##
 
 ### 그 외
 
