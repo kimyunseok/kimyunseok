@@ -38,5 +38,4 @@
 
 ### 그 외
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyunseok)](https://github.com/kimyunseok)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyunseok)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=kimyunseok&show_icons=true&count_private=true)
