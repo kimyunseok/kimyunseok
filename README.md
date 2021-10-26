@@ -9,7 +9,9 @@
 
 ##
 
-### 💻 진행한 안드로이드 프로젝트
+### 💻 안드로이드 History
+#### 개인 공부 
+[![Github Badge](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kimyunseok/android-study) 
 
 ##### 1. [Android] 알람이 울리는 메모 어플 제작. 기본으로 제공되는 메모 앱이 복잡하고 사용하기 불편해서 간단하게 메모할 수 있는 어플리케이션을 싱글 프로젝트로 제작했음. (Kotlin)
 (2020.07 ~ 2020.09) 
