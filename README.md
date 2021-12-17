@@ -11,7 +11,7 @@
 
 ##### 1. [Android] 알람이 울리는 메모 어플 제작. 기본으로 제공되는 메모 앱이 복잡하고 사용하기 불편해서 간단하게 메모할 수 있는 어플리케이션을 싱글 프로젝트로 제작했음. 
 ##### (2020.07 ~ 2020.09) - Kotlin, MVC, Room DB, Notification Manager(알림)
-##### (2021.11) 앱 재구성. - Kotlin, MVVM, Room DB, BroadcastReceiver, NotificationChannel, BaseActivity&BaseFragment, 
+##### (2021.11) 앱 재구성. - Kotlin, MVVM, Room DB, BroadcastReceiver, NotificationChannel, BaseActivity&BaseFragment, Repository, AAC ViewModel
 
 [![playStore Badge](https://img.shields.io/badge/Google%20PlayStore-0D96F6?style=for-the-badge&logo=AppStore&logoColor=white)](https://play.google.com/store/apps/details?id=com.landvibe.alamemo&hl=en_AU&gl=US) 
 [![Github Badge](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kimyunseok/android_alamemo) 
