@@ -23,6 +23,8 @@
 ##
 ##### 3. [Android] '위플' 앱 개발자.  안드로이드 앱 개발자. (Kotlin)
 ##### (2021-07 ~ ing) - Kotlin, MVVM, LiveData, Coroutine, Retrofit2 + OKHttp(Response방식 - 비동기처리), SNS Login API(Google, Kakao, Naver), IamPort 연동(결제 서비스), JavaScriptInterface In WebView, FileProvider(Under Android Q) / ContentResolver + ContentValue + MediaStore + FileOutputStream (파일 저장) / Bitmap + Canvas (뷰 -> 이미지 전환)
+[![playStore Badge](https://img.shields.io/badge/Google%20PlayStore-0D96F6?style=for-the-badge&logo=AppStore&logoColor=white)](https://play.google.com/store/apps/details?id=com.wefl.wefl) 
+
 ##
 #### 안드로이드 개인 공부 
 [![Github Badge](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kimyunseok/android-study) 
