@@ -13,7 +13,7 @@
 ##### (2020.07 ~ 2020.09) - Kotlin, MVC, Room DB, Notification Manager(알림)
 ##### (2021.11) 앱 재구성. - Kotlin, MVVM, Room DB, BroadcastReceiver, NotificationChannel, BaseActivity&BaseFragment, Repository, AAC ViewModel
 
-[![playStore Badge](https://img.shields.io/badge/Google%20PlayStore-0D96F6?style=for-the-badge&logo=AppStore&logoColor=white)](https://play.google.com/store/apps/details?id=com.landvibe.alamemo&hl=en_AU&gl=US) 
+[![playStore Badge](https://img.shields.io/badge/Google%20PlayStore-0D96F6?style=for-the-badge&logo=AppStore&logoColor=white)](https://play.google.com/store/apps/details?id=com.landvibe.alamemo) 
 [![Github Badge](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kimyunseok/android_alamemo) 
 ##
 ##### 2. [Android] 연합동아리 DND 4기 참여. 대학생, 현업자 개발자, 디자이너, 기획자 들을 대상으로 사이드 프로젝트를 같이할 사람을 모집하는 안드로이드 어플리케이션 제작. 안드로이드 앱 개발자로 참여했음. 
