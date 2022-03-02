@@ -26,6 +26,11 @@
 [![playStore Badge](https://img.shields.io/badge/Google%20PlayStore-0D96F6?style=for-the-badge&logo=AppStore&logoColor=white)](https://play.google.com/store/apps/details?id=com.wefl.wefl) 
 
 ##
+##### 4. [Android] 카카오 브레인 '패스파인더' 1기 참여(인턴쉽). 사진을 Input으로 넣으면, AI가 그림을 그려주고 해당 그림을 Klaytn MainNet을 사용해서 NFT를 Mint해주고 거래할 수 있는 플랫폼 제작했음. Defi를 구현해서 자체 코인 발행도 했음. 안드로이드 앱 개발자. (Kotlin)
+##### (2021-12 ~ 2022-02) - Kotlin, MVVM, LiveData, Coroutine, Retrofit2 + OKHttp(Response방식 - 비동기처리), SNS Login API(Kakao), FileProvider(Under Android Q) / ContentResolver + ContentValue + MediaStore + FileOutputStream (파일 저장) / Bitmap / FireBase Notification / Google Cloud Vision API / Paging 3.0 / NFT / Dex(Decentralized Exchange) & Defi (Decentralized Finance)
+[![playStore Badge](https://img.shields.io/badge/Google%20PlayStore-0D96F6?style=for-the-badge&logo=AppStore&logoColor=white)](https://play.google.com/store/apps/details?id=com.kakaobrain.pathfinder_prodo) 
+
+##
 #### 안드로이드 개인 공부 
 [![Github Badge](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kimyunseok/android-study) 
 
